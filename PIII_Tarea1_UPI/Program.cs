@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Linq;
 
+//Jose Antonio Valerio.
+
 namespace PIII_Tarea1_UPI
 {
     internal class Program
